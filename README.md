@@ -1,4 +1,4 @@
-### Hi welcome to my Account✌️
+### Hi welcome to my Profile✌️
 
 - 💺  I'm in 8th grade
 - 🌱 I'm studying programming since 2021 in June
