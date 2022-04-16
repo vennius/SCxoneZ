@@ -1,9 +1,4 @@
-### Hi welcome to my Profile✌️
-
-- 💺  I'm in 8th grade
-- 🌱 I'm studying programming since 2021 in June
-- 📟 Language: Javascript,HTML,CSS
-- 📂 All of my respository projects was coded on my mobile phone📱
+### Hi, Welcome.Nothing Specials Here
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SCxoneZ&show_icons=true&theme=tokyonight)
